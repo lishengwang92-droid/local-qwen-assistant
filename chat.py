@@ -2,7 +2,6 @@
 """A small terminal chat client for a local Ollama model."""
 
 import json
-import sys
 from urllib.error import URLError
 from urllib.request import Request, urlopen
 
